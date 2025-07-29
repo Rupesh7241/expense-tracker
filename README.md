@@ -49,19 +49,23 @@ expense-tracker/
     └── main.jsx                    # React DOM entry point
 ---
 ## SignUp- Page
-<img width="1916" height="884" alt="image" src="https://github.com/user-attachments/assets/0df511f5-a603-4165-94d6-3a987d7a9f08" />
+<img width="1914" height="891" alt="image" src="https://github.com/user-attachments/assets/b8417cf5-a46b-478c-bf27-2ae262496a75" />
+
 
 ---
 ## Dashboard View
-<img width="1886" height="887" alt="image" src="https://github.com/user-attachments/assets/f9109600-4ab8-4a6b-a587-e7a901c0f14c" />
+<img width="1889" height="884" alt="image" src="https://github.com/user-attachments/assets/5d7be190-5573-4d94-80a5-2be514b9719a" />
+
 
 ---
 ## Add Income Page
-<img width="1886" height="893" alt="image" src="https://github.com/user-attachments/assets/97902a07-1de9-4903-8d46-36ed4702a653" />
+<img width="942" height="442" alt="image" src="https://github.com/user-attachments/assets/5dbe0972-f20b-4b2b-84ac-c2e3811945cb" />
+
 
 ---
 ## Expense Chart view
-<img width="934" height="446" alt="image" src="https://github.com/user-attachments/assets/d44555d5-6fdb-4ce8-a253-34700e237575" />
+<img width="942" height="458" alt="image" src="https://github.com/user-attachments/assets/ba4e74e3-b33f-449c-b6b1-74b471887654" />
+
 
 
 
